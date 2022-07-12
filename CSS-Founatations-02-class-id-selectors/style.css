@@ -1,0 +1,17 @@
+.num1,
+.cool {
+    background-color: rgb(238, 165, 177);
+    font: Verdana, "DejaVu Sans", sans-serif;
+}
+.cool {
+    font-size: 24px;
+}
+#num2 {
+    color: blue;
+    font-size: 36px;
+}
+#num4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
